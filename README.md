@@ -14,7 +14,7 @@ OpenXR™ is the de facto industry standard for XR development, widely adopted a
 
 VortexXR is primarily developed with the [C4 Engine](https://c4engine.com/) in mind, but it is intended to function as a drop-in replacement for the Khronos OpenXR loader, offering compatibility with existing OpenXR-based workflows while maintaining flexibility for engine-level customization.
 
-This software requires the [Json4C4 library](https://github.com/nasosi/Json4C4. When not used within the C4 Engine environment, it also requires the [Terathon Container Libraries](https://github.com/EricLengyel/Terathon-Container-Library).
+This software requires the [Json4C4 library](https://github.com/nasosi/Json4C4). When not used within the C4 Engine environment, it also requires the [Terathon Container Libraries](https://github.com/EricLengyel/Terathon-Container-Library).
 
 ## Library Architecture
 
