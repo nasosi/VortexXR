@@ -1,4 +1,4 @@
-# VortexXr: An OpenXR™ loader
+# VortexXR: An OpenXR™ loader
 
 <div align="center">
 <p align="center">
