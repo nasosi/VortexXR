@@ -6,7 +6,7 @@
 </p>
 </div>
 
-VortexXR is an OpenXR™ loader library that implements the [OpenXR™ specification](https://registry.khronos.org/OpenXR/) specification and provides a clean interface between XR applications/engines and platform runtimes for Augmented and Virtual Reality (AR/VR) hardware.
+VortexXR is an OpenXR™ loader library that implements the [OpenXR™ specification](https://registry.khronos.org/OpenXR/) and provides a clean interface between XR applications/engines and platform runtimes for Augmented and Virtual Reality (AR/VR) hardware.
 
 It is designed to simplify integration with OpenXR™ by acting as the intermediary layer between your engine or application and the underlying XR runtime, enabling consistent access to AR/VR devices across platforms.
 
